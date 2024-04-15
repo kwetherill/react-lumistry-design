@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a37c59dd.css",
-    "main.js": "/static/js/main.403991a4.js",
+    "main.css": "/static/css/main.24956f60.css",
+    "main.js": "/static/js/main.39cf45d9.js",
     "static/js/787.5f17cb7b.chunk.js": "/static/js/787.5f17cb7b.chunk.js",
     "static/media/login.png": "/static/media/login.4a077528282a8ff3b3ff.png",
     "static/media/push-bg.png": "/static/media/push-bg.c85990b1c2eee516ca23.png",
@@ -19,6 +19,7 @@
     "static/media/webapp-topnav.png": "/static/media/webapp-topnav.f1dbd563b14650676d39.png",
     "static/media/webapp-content.png": "/static/media/webapp-content.c8a0df076a809c1d4faa.png",
     "static/media/Lato-Medium.woff": "/static/media/Lato-Medium.3de954a078a0f1bbc838.woff",
+    "static/media/dashboard-v2.png": "/static/media/dashboard-v2.0413d9b902adc855448e.png",
     "static/media/onboard1-form-patients.png": "/static/media/onboard1-form-patients.328761c196385dec2f6b.png",
     "static/media/settings-corporate.png": "/static/media/settings-corporate.d164d031cb027f0435b3.png",
     "static/media/appts-details.png": "/static/media/appts-details.fcfcb0f4991226d5bf9d.png",
@@ -184,12 +185,12 @@
     "static/media/lato-latin-ext-700-normal.woff2": "/static/media/lato-latin-ext-700-normal.9c8812eaec45956201e1.woff2",
     "static/media/lato-latin-ext-100-normal.woff2": "/static/media/lato-latin-ext-100-normal.7a5dea8b0e2bb553f613.woff2",
     "index.html": "/index.html",
-    "main.a37c59dd.css.map": "/static/css/main.a37c59dd.css.map",
-    "main.403991a4.js.map": "/static/js/main.403991a4.js.map",
+    "main.24956f60.css.map": "/static/css/main.24956f60.css.map",
+    "main.39cf45d9.js.map": "/static/js/main.39cf45d9.js.map",
     "787.5f17cb7b.chunk.js.map": "/static/js/787.5f17cb7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a37c59dd.css",
-    "static/js/main.403991a4.js"
+    "static/css/main.24956f60.css",
+    "static/js/main.39cf45d9.js"
   ]
 }
