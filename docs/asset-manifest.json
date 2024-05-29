@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.ebfdd2f8.css",
+    "main.css": "/static/css/main.2a505086.css",
     "main.js": "/static/js/main.3bb790f2.js",
     "static/js/787.5f17cb7b.chunk.js": "/static/js/787.5f17cb7b.chunk.js",
     "static/media/login.png": "/static/media/login.4a077528282a8ff3b3ff.png",
@@ -29,7 +29,6 @@
     "static/media/refills.png": "/static/media/refills.0c98fa8a556f6400ae41.png",
     "static/media/messages-inbox.png": "/static/media/messages-inbox.655570ad10ecee98c798.png",
     "static/media/onboard1-form-brand.png": "/static/media/onboard1-form-brand.d02e744861eb0db0eb98.png",
-    "static/media/meds-refill-confirm.png": "/static/media/meds-refill-confirm.fb7a8831511bbf277c3e.png",
     "static/media/messages-inbox2.png": "/static/media/messages-inbox2.20cda796c20e8210c3b9.png",
     "static/media/tasks-list2.png": "/static/media/tasks-list2.88e4c4b98bc44b0a5f14.png",
     "static/media/Lato-Semibold.woff2": "/static/media/Lato-Semibold.308e028c6909fd433b6b.woff2",
@@ -38,7 +37,6 @@
     "static/media/messages-preview-chat.png": "/static/media/messages-preview-chat.ff184a20a9f29c3c81c2.png",
     "static/media/header-home.png": "/static/media/header-home.3cb58ad8a29b770d056c.png",
     "static/media/videos-list.png": "/static/media/videos-list.1e5e8ad1425b98cd8d06.png",
-    "static/media/meds-refill-review.png": "/static/media/meds-refill-review.1470f2f82f404fedfc5e.png",
     "static/media/tasks-auto.png": "/static/media/tasks-auto.fcd2b7a67f3c60639134.png",
     "static/media/meds-edsheet.png": "/static/media/meds-edsheet.cc7e84f1d7e63376aa29.png",
     "static/media/schedule.png": "/static/media/schedule.88c8442add3e59d8c780.png",
@@ -49,6 +47,7 @@
     "static/media/forms-editor.png": "/static/media/forms-editor.bf03e6a9369363e01761.png",
     "static/media/messages-panel.png": "/static/media/messages-panel.00fa1558003fa9fdd4d0.png",
     "static/media/patients-panel.png": "/static/media/patients-panel.8161d095da3efa8293d1.png",
+    "static/media/meds-refill-confirm2.png": "/static/media/meds-refill-confirm2.c550eb1350850b97f25a.png",
     "static/media/meds-refill-method.png": "/static/media/meds-refill-method.36172b3fdd03a69ce90b.png",
     "static/media/onboard-phonetop-internal.png": "/static/media/onboard-phonetop-internal.10575466a3d6a1d8913c.png",
     "static/media/meds-orders.png": "/static/media/meds-orders.70b5fc619dee0ec20eb0.png",
@@ -62,6 +61,7 @@
     "static/media/forms-subs2.png": "/static/media/forms-subs2.fe685aeebd032b47bcbe.png",
     "static/media/tasks-list2-altstore2.png": "/static/media/tasks-list2-altstore2.3935041aafc95eaf51a1.png",
     "static/media/schedule-appts.png": "/static/media/schedule-appts.4418dc93edc1c4d0dd98.png",
+    "static/media/meds-refill-review2.png": "/static/media/meds-refill-review2.a2df4ea05be301e7df90.png",
     "static/media/onboard-progress.png": "/static/media/onboard-progress.7ac9f8c8883757fefdce.png",
     "static/media/schedule-add.png": "/static/media/schedule-add.c44eb52ccb7932539da0.png",
     "static/media/messages-new-modal3.png": "/static/media/messages-new-modal3.365e332f58629b669d40.png",
@@ -187,12 +187,12 @@
     "static/media/lato-latin-ext-700-normal.woff2": "/static/media/lato-latin-ext-700-normal.9c8812eaec45956201e1.woff2",
     "static/media/lato-latin-ext-100-normal.woff2": "/static/media/lato-latin-ext-100-normal.7a5dea8b0e2bb553f613.woff2",
     "index.html": "/index.html",
-    "main.ebfdd2f8.css.map": "/static/css/main.ebfdd2f8.css.map",
+    "main.2a505086.css.map": "/static/css/main.2a505086.css.map",
     "main.3bb790f2.js.map": "/static/js/main.3bb790f2.js.map",
     "787.5f17cb7b.chunk.js.map": "/static/js/787.5f17cb7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebfdd2f8.css",
+    "static/css/main.2a505086.css",
     "static/js/main.3bb790f2.js"
   ]
 }
