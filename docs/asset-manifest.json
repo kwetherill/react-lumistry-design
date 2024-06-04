@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a505086.css",
-    "main.js": "/static/js/main.3bb790f2.js",
+    "main.css": "/static/css/main.b8fb3a35.css",
+    "main.js": "/static/js/main.db7502e9.js",
     "static/js/787.5f17cb7b.chunk.js": "/static/js/787.5f17cb7b.chunk.js",
     "static/media/login.png": "/static/media/login.4a077528282a8ff3b3ff.png",
     "static/media/push-bg.png": "/static/media/push-bg.c85990b1c2eee516ca23.png",
@@ -17,7 +17,7 @@
     "static/media/webapp-content.png": "/static/media/webapp-content.c8a0df076a809c1d4faa.png",
     "static/media/Lato-Medium.woff": "/static/media/Lato-Medium.3de954a078a0f1bbc838.woff",
     "static/media/meds-details2.png": "/static/media/meds-details2.5401c1e6655ad2b06f3a.png",
-    "static/media/dashboard-v2.png": "/static/media/dashboard-v2.f831f18ca258284eb769.png",
+    "static/media/dashboard-v2.png": "/static/media/dashboard-v2.897e00a415f8b0bfbf15.png",
     "static/media/forms-details.png": "/static/media/forms-details.fcc6f8c0c116cfb76064.png",
     "static/media/onboard1-form-patients.png": "/static/media/onboard1-form-patients.328761c196385dec2f6b.png",
     "static/media/settings-corporate.png": "/static/media/settings-corporate.d164d031cb027f0435b3.png",
@@ -28,12 +28,12 @@
     "static/media/patients-list.png": "/static/media/patients-list.581fa2411fb7b5a564e3.png",
     "static/media/refills.png": "/static/media/refills.0c98fa8a556f6400ae41.png",
     "static/media/messages-inbox.png": "/static/media/messages-inbox.655570ad10ecee98c798.png",
+    "static/media/messages-auto2.png": "/static/media/messages-auto2.ad6a2ff15224b221c121.png",
     "static/media/onboard1-form-brand.png": "/static/media/onboard1-form-brand.d02e744861eb0db0eb98.png",
     "static/media/messages-inbox2.png": "/static/media/messages-inbox2.20cda796c20e8210c3b9.png",
     "static/media/tasks-list2.png": "/static/media/tasks-list2.88e4c4b98bc44b0a5f14.png",
     "static/media/Lato-Semibold.woff2": "/static/media/Lato-Semibold.308e028c6909fd433b6b.woff2",
     "static/media/Lato-Medium.woff2": "/static/media/Lato-Medium.ec982ccc0e1f80c932cd.woff2",
-    "static/media/messages-auto2.png": "/static/media/messages-auto2.81298a7ab47e9fc9afc7.png",
     "static/media/messages-preview-chat.png": "/static/media/messages-preview-chat.ff184a20a9f29c3c81c2.png",
     "static/media/header-home.png": "/static/media/header-home.3cb58ad8a29b770d056c.png",
     "static/media/videos-list.png": "/static/media/videos-list.1e5e8ad1425b98cd8d06.png",
@@ -187,12 +187,12 @@
     "static/media/lato-latin-ext-700-normal.woff2": "/static/media/lato-latin-ext-700-normal.9c8812eaec45956201e1.woff2",
     "static/media/lato-latin-ext-100-normal.woff2": "/static/media/lato-latin-ext-100-normal.7a5dea8b0e2bb553f613.woff2",
     "index.html": "/index.html",
-    "main.2a505086.css.map": "/static/css/main.2a505086.css.map",
-    "main.3bb790f2.js.map": "/static/js/main.3bb790f2.js.map",
+    "main.b8fb3a35.css.map": "/static/css/main.b8fb3a35.css.map",
+    "main.db7502e9.js.map": "/static/js/main.db7502e9.js.map",
     "787.5f17cb7b.chunk.js.map": "/static/js/787.5f17cb7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a505086.css",
-    "static/js/main.3bb790f2.js"
+    "static/css/main.b8fb3a35.css",
+    "static/js/main.db7502e9.js"
   ]
 }
