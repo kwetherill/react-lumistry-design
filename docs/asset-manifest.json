@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ebd6686f.css",
-    "main.js": "/static/js/main.8284c477.js",
+    "main.css": "/static/css/main.fe97e6fd.css",
+    "main.js": "/static/js/main.d6d563f1.js",
     "static/js/787.5f17cb7b.chunk.js": "/static/js/787.5f17cb7b.chunk.js",
     "static/media/login.png": "/static/media/login.4a077528282a8ff3b3ff.png",
     "static/media/push-bg.png": "/static/media/push-bg.c85990b1c2eee516ca23.png",
@@ -129,6 +129,7 @@
     "static/media/messages.png": "/static/media/messages.f693cb4261a93df1569a.png",
     "static/media/tasks-sidenav.png": "/static/media/tasks-sidenav.98d8389cbd4f0f80f6d8.png",
     "static/media/messages-details.png": "/static/media/messages-details.4b299dd62918dd6ba4dd.png",
+    "static/media/genform-error.png": "/static/media/genform-error.44bcf9560fcb7ed6a0d3.png",
     "static/media/appts-new-2.png": "/static/media/appts-new-2.580cd0eb81eaa180f119.png",
     "static/media/chat-convo2.png": "/static/media/chat-convo2.adbad9628ff043983187.png",
     "static/media/meds-refill-info.png": "/static/media/meds-refill-info.64bf8658d4abce271de7.png",
@@ -146,6 +147,7 @@
     "static/media/icons-sm.png": "/static/media/icons-sm.966918a162822f375e10.png",
     "static/media/messages-sidebar-chat.png": "/static/media/messages-sidebar-chat.c82287b69677a07ece2b.png",
     "static/media/topnav.png": "/static/media/topnav.d062aeede4a0022ff93e.png",
+    "static/media/genform.png": "/static/media/genform.576a5f1595c415aa72ad.png",
     "static/media/onboard2-employees.png": "/static/media/onboard2-employees.44a9378043aa17a88331.png",
     "static/media/push-notifications.png": "/static/media/push-notifications.a37c3ae64edd0c5e642e.png",
     "static/media/chat-new.png": "/static/media/chat-new.298e1fd24884d4a7ca0e.png",
@@ -202,12 +204,12 @@
     "static/media/lato-latin-ext-700-normal.woff2": "/static/media/lato-latin-ext-700-normal.9c8812eaec45956201e1.woff2",
     "static/media/lato-latin-ext-100-normal.woff2": "/static/media/lato-latin-ext-100-normal.7a5dea8b0e2bb553f613.woff2",
     "index.html": "/index.html",
-    "main.ebd6686f.css.map": "/static/css/main.ebd6686f.css.map",
-    "main.8284c477.js.map": "/static/js/main.8284c477.js.map",
+    "main.fe97e6fd.css.map": "/static/css/main.fe97e6fd.css.map",
+    "main.d6d563f1.js.map": "/static/js/main.d6d563f1.js.map",
     "787.5f17cb7b.chunk.js.map": "/static/js/787.5f17cb7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebd6686f.css",
-    "static/js/main.8284c477.js"
+    "static/css/main.fe97e6fd.css",
+    "static/js/main.d6d563f1.js"
   ]
 }
