@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe97e6fd.css",
-    "main.js": "/static/js/main.d6d563f1.js",
+    "main.css": "/static/css/main.353e579e.css",
+    "main.js": "/static/js/main.99027c83.js",
     "static/js/787.5f17cb7b.chunk.js": "/static/js/787.5f17cb7b.chunk.js",
     "static/media/login.png": "/static/media/login.4a077528282a8ff3b3ff.png",
     "static/media/push-bg.png": "/static/media/push-bg.c85990b1c2eee516ca23.png",
@@ -85,6 +85,7 @@
     "static/media/email.png": "/static/media/email.6f10eb76c3bf33146b84.png",
     "static/media/header-sub.png": "/static/media/header-sub.e8735c5d1159a6b0c6a0.png",
     "static/media/notifications-modal.png": "/static/media/notifications-modal.460814282c6e51c33094.png",
+    "static/media/genpanel.png": "/static/media/genpanel.f930fce26bd314f87acf.png",
     "static/media/tasks-panel-alt.png": "/static/media/tasks-panel-alt.5372115d4459321d5acf.png",
     "static/media/demos-filepicker.png": "/static/media/demos-filepicker.74f277ebf4963e62e289.png",
     "static/media/onboard-progress2.png": "/static/media/onboard-progress2.68984612246faebc9968.png",
@@ -184,6 +185,7 @@
     "static/media/lato-latin-100-normal.woff2": "/static/media/lato-latin-100-normal.6219d77f765dee38fd87.woff2",
     "static/media/auth-login.png": "/static/media/auth-login.3e3beb24cb1d92717b3f.png",
     "static/media/generic-sidebar.png": "/static/media/generic-sidebar.daa1a83052182b9f19b8.png",
+    "static/media/gensidenav.png": "/static/media/gensidenav.daa1a83052182b9f19b8.png",
     "static/media/demos-icons.png": "/static/media/demos-icons.9fe6009ccd0adb2b2b5a.png",
     "static/media/onboard-phonetop-welcome.png": "/static/media/onboard-phonetop-welcome.228d3f5b4d2c034457b2.png",
     "static/media/onboard2-agreements.png": "/static/media/onboard2-agreements.7f761c1d08167e7e8360.png",
@@ -204,12 +206,12 @@
     "static/media/lato-latin-ext-700-normal.woff2": "/static/media/lato-latin-ext-700-normal.9c8812eaec45956201e1.woff2",
     "static/media/lato-latin-ext-100-normal.woff2": "/static/media/lato-latin-ext-100-normal.7a5dea8b0e2bb553f613.woff2",
     "index.html": "/index.html",
-    "main.fe97e6fd.css.map": "/static/css/main.fe97e6fd.css.map",
-    "main.d6d563f1.js.map": "/static/js/main.d6d563f1.js.map",
+    "main.353e579e.css.map": "/static/css/main.353e579e.css.map",
+    "main.99027c83.js.map": "/static/js/main.99027c83.js.map",
     "787.5f17cb7b.chunk.js.map": "/static/js/787.5f17cb7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe97e6fd.css",
-    "static/js/main.d6d563f1.js"
+    "static/css/main.353e579e.css",
+    "static/js/main.99027c83.js"
   ]
 }
