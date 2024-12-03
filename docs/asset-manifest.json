@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e798759.css",
-    "main.js": "/static/js/main.5b5f73c6.js",
+    "main.css": "/static/css/main.fbb6238e.css",
+    "main.js": "/static/js/main.22edf3df.js",
     "static/js/787.5f17cb7b.chunk.js": "/static/js/787.5f17cb7b.chunk.js",
     "static/media/login.png": "/static/media/login.4a077528282a8ff3b3ff.png",
     "static/media/push-bg.png": "/static/media/push-bg.c85990b1c2eee516ca23.png",
@@ -12,6 +12,7 @@
     "static/media/dashboard.png": "/static/media/dashboard.9cc013b8183816f62e0c.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/tasks-list3.png": "/static/media/tasks-list3.ce48a879cfcf270f124c.png",
+    "static/media/home.png": "/static/media/home.8b20b75d8c687d0a6ec5.png",
     "static/media/messages-auto.png": "/static/media/messages-auto.96645789855415bd6311.png",
     "static/media/Lato-Semibold.woff": "/static/media/Lato-Semibold.91db043e3c8590425cf7.woff",
     "static/media/webapp-topnav.png": "/static/media/webapp-topnav.f1dbd563b14650676d39.png",
@@ -38,11 +39,12 @@
     "static/media/messages-preview-chat.png": "/static/media/messages-preview-chat.ff184a20a9f29c3c81c2.png",
     "static/media/header-home.png": "/static/media/header-home.3cb58ad8a29b770d056c.png",
     "static/media/videos-list.png": "/static/media/videos-list.1e5e8ad1425b98cd8d06.png",
+    "static/media/msgdrill1-content.png": "/static/media/msgdrill1-content.15e7eb9e51d9e1a208cc.png",
     "static/media/tasks-auto.png": "/static/media/tasks-auto.fcd2b7a67f3c60639134.png",
     "static/media/meds-edsheet.png": "/static/media/meds-edsheet.cc7e84f1d7e63376aa29.png",
     "static/media/schedule.png": "/static/media/schedule.88c8442add3e59d8c780.png",
     "static/media/home2.png": "/static/media/home2.bfa29ad22d21c8c13b22.png",
-    "static/media/msgdrill1-content.png": "/static/media/msgdrill1-content.ba543c7b241ac3330c5f.png",
+    "static/media/genphone-home.png": "/static/media/genphone-home.cd4c962af626d0e33613.png",
     "static/media/generic-list.png": "/static/media/generic-list.3e77da75ced118997855.png",
     "static/media/messages-preview-sms.png": "/static/media/messages-preview-sms.c71e51f34eab7d9ab41e.png",
     "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -51,6 +53,7 @@
     "static/media/messages-panel.png": "/static/media/messages-panel.00fa1558003fa9fdd4d0.png",
     "static/media/patients-panel.png": "/static/media/patients-panel.8161d095da3efa8293d1.png",
     "static/media/meds-refill-confirm2.png": "/static/media/meds-refill-confirm2.c550eb1350850b97f25a.png",
+    "static/media/genphone-meds.png": "/static/media/genphone-meds.d17e2afc501ea6eb8065.png",
     "static/media/msgdrill1-panel.png": "/static/media/msgdrill1-panel.09db12c16a41b4584c54.png",
     "static/media/fauxlist-rows.png": "/static/media/fauxlist-rows.5f2d87edff5b6d9309b9.png",
     "static/media/meds-refill-method.png": "/static/media/meds-refill-method.36172b3fdd03a69ce90b.png",
@@ -79,6 +82,7 @@
     "static/media/account-people.png": "/static/media/account-people.fc9578e4eb1f99c0e9cf.png",
     "static/media/patientpanel-list-rows.png": "/static/media/patientpanel-list-rows.357dfda940e95fadec1a.png",
     "static/media/demos-filepicker-select.png": "/static/media/demos-filepicker-select.96158a7da411e449a488.png",
+    "static/media/msgdrill1-content-demo1.png": "/static/media/msgdrill1-content-demo1.7b919919dd59da65116c.png",
     "static/media/appts.png": "/static/media/appts.89f6d9fe29dabd3f89ec.png",
     "static/media/wellness.png": "/static/media/wellness.a5db0cf717692ac1fdf8.png",
     "static/media/dashboard3-sidenav.png": "/static/media/dashboard3-sidenav.baea3d41ff486d2f64f7.png",
@@ -103,6 +107,7 @@
     "static/media/messages-chat-modal.png": "/static/media/messages-chat-modal.178ed962a2db06894b58.png",
     "static/media/onboard1-form-welcome.png": "/static/media/onboard1-form-welcome.1d8091afb0fef6d60048.png",
     "static/media/dashboard-tasks2.png": "/static/media/dashboard-tasks2.e1a4b2218a496366fd0a.png",
+    "static/media/phonetest1-notifications.png": "/static/media/phonetest1-notifications.30e3774f85250d40734d.png",
     "static/media/meds-reminders.png": "/static/media/meds-reminders.ddf3132ed03d8225d3c4.png",
     "static/media/forms-forms.png": "/static/media/forms-forms.61e5ad72cda498e31cfd.png",
     "static/media/tasks-list2-brand2.png": "/static/media/tasks-list2-brand2.a892d93ddaab3de08c16.png",
@@ -115,6 +120,7 @@
     "static/media/meds.png": "/static/media/meds.f79f5e5a4cd64a58c073.png",
     "static/media/onboard2-addresses.png": "/static/media/onboard2-addresses.21282274e8edb099cd73.png",
     "static/media/onboard1-form-confirm.png": "/static/media/onboard1-form-confirm.ed0fb79c8da86d0d8066.png",
+    "static/media/genphone-modal.png": "/static/media/genphone-modal.6513eea071de9361d70a.png",
     "static/media/iphone.png": "/static/media/iphone.9d1b13252d1535f593f7.png",
     "static/media/dashboard-messages2.png": "/static/media/dashboard-messages2.2268f1a26e5281b17861.png",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
@@ -206,12 +212,12 @@
     "static/media/lato-latin-ext-700-normal.woff2": "/static/media/lato-latin-ext-700-normal.9c8812eaec45956201e1.woff2",
     "static/media/lato-latin-ext-100-normal.woff2": "/static/media/lato-latin-ext-100-normal.7a5dea8b0e2bb553f613.woff2",
     "index.html": "/index.html",
-    "main.5e798759.css.map": "/static/css/main.5e798759.css.map",
-    "main.5b5f73c6.js.map": "/static/js/main.5b5f73c6.js.map",
+    "main.fbb6238e.css.map": "/static/css/main.fbb6238e.css.map",
+    "main.22edf3df.js.map": "/static/js/main.22edf3df.js.map",
     "787.5f17cb7b.chunk.js.map": "/static/js/787.5f17cb7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e798759.css",
-    "static/js/main.5b5f73c6.js"
+    "static/css/main.fbb6238e.css",
+    "static/js/main.22edf3df.js"
   ]
 }
